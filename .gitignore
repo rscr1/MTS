@@ -1,4 +1,5 @@
 venv
+__pycache__
 
 data.csv
 Walmart.csv
@@ -9,3 +10,4 @@ Walmart.csv
 Статистика дз 6.pdf
 
 Оптимизация дз 3.pdf
+
