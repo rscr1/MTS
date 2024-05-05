@@ -1,18 +1,16 @@
 venv
 __pycache__
 
-data.csv
-Walmart.csv
-heart_disease_health_indicators_BRFSS2015.csv
-BankChurners.csv
+**.csv
 
-Статистика дз 3.pdf
-Статистика дз 4.pdf
-Статистика дз 5.pdf
-Статистика дз 6.pdf
+Статистика/hw3/hw3.pdf
+Статистика/hw4/hw4.pdf
+Статистика/hw5/hw5.pdf
+Статистика/hw6/hw6.pdf
 
-Оптимизация дз 3.pdf
+Оптимизация/hw3/hw3.pdf
 
-Регрессия дз 4.pdf
+Регрессия/hw4/hw4.pdf
 
-hw2.pdf
+ML/hw2/hw2.pdf
+ML/hw3/hw3.pdf
